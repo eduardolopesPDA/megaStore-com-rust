@@ -130,6 +130,6 @@ fn main() {
         println!("  - {:<30} | Marca: {:<10} | R${:>8.2}", g.nome, g.marca, g.preco);
     }
 
-    println!("\n-------------------------------------------");
+
     println!("Busca finalizada com sucesso!");
 }
