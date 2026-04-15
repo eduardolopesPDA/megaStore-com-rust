@@ -28,12 +28,12 @@ A solução utiliza a linguagem **Rust** e estruturas de dados de **Tabelas Hash
 ### Passo a Passo
 1. Clone o repositório:
    digite no terminal:
-   git clone <link-do-seu-repositorio>
+   git clone https://github.com/eduardolopesPDA/megaStore-com-rust.git
 
-  2. Entre na pasta do projeto:
+2. Entre na pasta do projeto:
   digite no terminal:
   cd "megaStore com rust"
 
-  3. Execute o sistema:
-     cargo run
+3. Execute o sistema:
+   digite no seu terminal: cargo run
 
